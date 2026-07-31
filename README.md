@@ -1,5 +1,5 @@
 # Tactical Swing Trading Terminal
-### A Quantitative Triage Terminal for Discretionary Swing Traders[cite: 1, 2]
+### A Quantitative Triage Terminal for Discretionary Swing Traders
 
 Replace emotional decision-making and retail FOMO with institutional risk math and qualitative AI oversight.
 
